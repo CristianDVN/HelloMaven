@@ -5,5 +5,8 @@ public class Main{
         System.out.println("Hello Maven!");
         
         Persona persona = new Persona();
+        persona.setNombre("Cristian David");
+        persona.setApellido("Valencia");
+        persona.setEdad(21);
     }
 }
